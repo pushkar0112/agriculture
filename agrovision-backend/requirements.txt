@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+keras>=3.0
+# TensorFlow provides the backend required by the uploaded Keras model.
+tensorflow
+pydantic
+python-dotenv
+serpapi
+python-dotenv
+requests
